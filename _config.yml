@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haley R. Wang"
-  avatar           : "C:\Users\Haley Wang\Desktop\headshot.jpg"
+  avatar           : "https://i.postimg.cc/Y0qqDWcw/headshot.jpg"
   bio              : "Clinician and data scientist. PhD candidate @ UCLA"
   location         : "Los Angeles, California"
   employer         : #"UCLA"
